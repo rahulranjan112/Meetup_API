@@ -2,7 +2,7 @@ You have an upcoming meetup where you need the participants to RSVP so that you 
 
 You also need an admin screen that contains list of all the participants which can be searched based on their names and locality
 
-The task is to build below 3 apis. You could build your own database schema using Mysql or sqlite for the below entities
+The task is to build below 3 apis preferably using Java SpringBoot, Aps .Net Core, Go Lang frameworks (Gin, Revel, Beego), PHP frameworks (Laravel, Lumen, Code Ignitor) or any other framework. You could build your own database schema using Mysql or sqlite for the below entities
 
 
 
@@ -29,7 +29,10 @@ It takes this data to register a participant and stores in the database and retu
 This API should return the list of participants registered. You can also look at building pagination to support a long list
 
 
+###  Update API
 
+```/participants PUT```
+This API will help us update the data for a certain participant.
 
 
 # Additional Notes
@@ -43,6 +46,9 @@ This API should return the list of participants registered. You can also look at
 4. Bonus points for good commit messages.
 
 5. Bonus points for a scalable design.
+
+6. Data validation needs to be considered.
+
 
    
 
