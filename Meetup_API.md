@@ -32,6 +32,7 @@ This API should return the list of participants registered. You can also look at
 ###  Update API
 
 ```/participants PUT```
+
 This API will help us update the data for a certain participant.
 
 
