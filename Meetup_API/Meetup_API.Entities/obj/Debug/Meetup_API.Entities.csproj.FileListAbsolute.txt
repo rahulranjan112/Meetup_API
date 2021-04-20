@@ -1,0 +1,7 @@
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\bin\Debug\Meetup_API.Entities.dll
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\bin\Debug\Meetup_API.Entities.pdb
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\bin\Debug\BouncyCastle.Crypto.dll
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\obj\Debug\Meetup_API.Entities.csprojResolveAssemblyReference.cache
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\obj\Debug\Meetup_API.Entities.csproj.CoreCompileInputs.cache
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\obj\Debug\Meetup_API.Entities.dll
+D:\eclipse-workspace\MeetupAPI\Meetup_API\Meetup_API.Entities\obj\Debug\Meetup_API.Entities.pdb

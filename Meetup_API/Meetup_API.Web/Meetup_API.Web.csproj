@@ -178,6 +178,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ParticipantController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -252,6 +253,16 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Meetup_API.Entities\Meetup_API.Entities.csproj">
+      <Project>{2514D332-6159-4A5C-862B-DA20F1082F5B}</Project>
+      <Name>Meetup_API.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Meetup_API.Services\Meetup_API.Services.csproj">
+      <Project>{3200E905-9260-408D-90AA-5541C82EE5EB}</Project>
+      <Name>Meetup_API.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.Web", "Meetup_API.Web\Meetup_API.Web.csproj", "{5ADBBE22-0C8F-4264-860C-C9F5B5704767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.Entities", "Meetup_API.Entities\Meetup_API.Entities.csproj", "{2514D332-6159-4A5C-862B-DA20F1082F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.DataAccess", "Meetup_API.DataAccess\Meetup_API.DataAccess.csproj", "{CEC45F69-67C0-4599-9166-3B86CB9E9A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.Services", "Meetup_API.Services\Meetup_API.Services.csproj", "{3200E905-9260-408D-90AA-5541C82EE5EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{5ADBBE22-0C8F-4264-860C-C9F5B5704767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ADBBE22-0C8F-4264-860C-C9F5B5704767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ADBBE22-0C8F-4264-860C-C9F5B5704767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2514D332-6159-4A5C-862B-DA20F1082F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2514D332-6159-4A5C-862B-DA20F1082F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2514D332-6159-4A5C-862B-DA20F1082F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2514D332-6159-4A5C-862B-DA20F1082F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC45F69-67C0-4599-9166-3B86CB9E9A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC45F69-67C0-4599-9166-3B86CB9E9A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC45F69-67C0-4599-9166-3B86CB9E9A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC45F69-67C0-4599-9166-3B86CB9E9A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3200E905-9260-408D-90AA-5541C82EE5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3200E905-9260-408D-90AA-5541C82EE5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3200E905-9260-408D-90AA-5541C82EE5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3200E905-9260-408D-90AA-5541C82EE5EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
