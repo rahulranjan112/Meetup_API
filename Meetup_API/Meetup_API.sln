@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.DataAccess", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.Services", "Meetup_API.Services\Meetup_API.Services.csproj", "{3200E905-9260-408D-90AA-5541C82EE5EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup_API.UnitTest", "Meetup_API.UnitTest\Meetup_API.UnitTest.csproj", "{7535A6D1-2552-4F56-BF5C-2DFEE1290626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3200E905-9260-408D-90AA-5541C82EE5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3200E905-9260-408D-90AA-5541C82EE5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3200E905-9260-408D-90AA-5541C82EE5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7535A6D1-2552-4F56-BF5C-2DFEE1290626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7535A6D1-2552-4F56-BF5C-2DFEE1290626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7535A6D1-2552-4F56-BF5C-2DFEE1290626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7535A6D1-2552-4F56-BF5C-2DFEE1290626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

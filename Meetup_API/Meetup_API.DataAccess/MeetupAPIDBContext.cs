@@ -1,11 +1,7 @@
 ﻿using Meetup_API.Entities;
 using MySql.Data.EntityFramework;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Meetup_API.DataAccess
 {

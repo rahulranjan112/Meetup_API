@@ -1,10 +1,6 @@
 ﻿using Meetup_API.Entities;
 using Meetup_API.Services;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace Meetup_API.Web.Controllers
